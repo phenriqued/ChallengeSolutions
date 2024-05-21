@@ -7,6 +7,6 @@
 
 <h2>Soluções:</h2>
 <ul>
-  <li>  Problema: <a href="https://github.com/backend-br/desafios/blob/master/loans/PROBLEM.md"> loans </a> | Solução: </li>
+  <li>  Problema: <a href="https://github.com/backend-br/desafios/blob/master/loans/PROBLEM.md"> loans </a> <br> Solução: </li>
 </ul>
 <br>
