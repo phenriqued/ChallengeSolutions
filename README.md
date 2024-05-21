@@ -9,4 +9,9 @@
 <ul>
   <li>  Problema: <a href="https://github.com/backend-br/desafios/blob/master/loans/PROBLEM.md"> loans </a> <br> Solução: </li>
 </ul>
-<br>
+
+<br><br>
+
+<footer>
+Observação: Estas são soluções elaborada por min. A Comunidade Back-End Brasil disponibilizou soluções consulte: <a href="https://github.com/backend-br/desafios"> desafios </a>.
+</footer>
