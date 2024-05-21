@@ -7,7 +7,8 @@
 
 <h2>Soluções:</h2>
 <ul>
-  <li>  Problema: <a href="https://github.com/backend-br/desafios/blob/master/loans/PROBLEM.md"> loans </a> <br> Solução: </li>
+  <li>  Problema: <a href="https://github.com/backend-br/desafios/blob/master/loans/PROBLEM.md"> loans </a> <br> 
+        Solução: <a href="https://github.com/phenriqued/ChallengeSolutions/blob/main/LoanChallenge/SOLUTION.md"> loans solution </a> </li>
 </ul>
 
 <br><br>
@@ -15,3 +16,4 @@
 <footer>
 Observação: Estas são soluções elaborada por min. A Comunidade Back-End Brasil disponibilizou soluções consulte: <a href="https://github.com/backend-br/desafios"> desafios </a>.
 </footer>
+
