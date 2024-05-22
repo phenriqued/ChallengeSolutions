@@ -12,7 +12,6 @@ import java.math.BigDecimal;
 @EqualsAndHashCode(of = {"cpf"})
 public class CustomerEntity {
 
-    private Long id;
     private String cpf;
     private String name;
     private Integer age;
