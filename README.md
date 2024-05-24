@@ -9,6 +9,8 @@
 <ul>
   <li>  Problema: <a href="https://github.com/backend-br/desafios/blob/master/loans/PROBLEM.md"> loans </a> <br> 
         Solução: <a href="https://github.com/phenriqued/ChallengeSolutions/blob/main/LoanChallenge/SOLUTION.md"> loans solution </a> </li>
+  <li>  Problema: <a href="https://github.com/backend-br/desafios/blob/master/secure-password/PROBLEM.md"> secure-password </a> <br> 
+        Solução: <a href="https://github.com/phenriqued/ChallengeSolutions/blob/main/SecurePassword/SOLUTION.md"> secure-password solution </a> </li>
 </ul>
 
 <br><br>
